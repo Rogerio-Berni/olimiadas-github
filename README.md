@@ -1,4 +1,4 @@
-## Aplicativo "Atletas do Brasil": Encontre seus ídolos!
+## Aplicativo "Atletas do Brasil": Encontre seus ídolos! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
